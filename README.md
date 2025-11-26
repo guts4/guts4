@@ -31,7 +31,7 @@
 ## 📝 Publications
 
 ### 2025
-- **[ICCV 2025 Workshop] REVIVE3D: REtrieval-based Volumetric Infusion via Visual Editing**
+- ![Role](https://img.shields.io/badge/1st%20Author-FF5722?style=flat-square)**[ICCV 2025 Workshop] REVIVE3D: REtrieval-based Volumetric Infusion via Visual Editing**
 - **[Endocrinology and Metabolism] Deep Learning Technology for Classification of Thyroid Nodules Using Multi-View Ultrasound Images: Potential Benefits and Challenges in Clinical Application**
 
 ### 2024
