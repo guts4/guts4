@@ -19,13 +19,13 @@
 * **Role:**
   * **M.S. Student** (2025.03 ~ Current)
   * **Research Intern** (2024.06 ~ 2025.02)
-* **Link:** [Multimodal AI Lab](https://mmai.yonsei.ac.kr/)
+* **Link:** [Multimedia AI Lab](https://mmai.yonsei.ac.kr/)
 * **Focus:** Computer Vision, 3D Vision, Generative Models
 
 ### **AIA Lab (Hongik Univ.)**
 * **Period:** 2023 ~ 2024
 * **Role:** Undergraduate Researcher
-* **Link:** [Artificial Intelligence Association](https://sites.google.com/view/aiahongikuniversity/home?authuser=0)
+* **Link:** [Artificial Intelligence Applications](https://sites.google.com/view/aiahongikuniversity/home?authuser=0)
 * **Focus:** Medical AI, Computer Vision, Deep Learning Applications
 
 <br>
