@@ -15,8 +15,10 @@
 ## 🔭 Research Experience
 
 ### **MMAI Lab (Yonsei Univ.)**
-* **Period:** 2024 ~ Current
-* **Role:** Graduate Research Assistant
+* **Period:** 2024.01 ~ Current
+* **Role:**
+  * **M.S. Student** (2025.03 ~ Current)
+  * **Research Intern** (2024.01 ~ 2025.02)
 * **Link:** [Multimodal AI Lab](https://mmai.yonsei.ac.kr/)
 * **Focus:** Computer Vision, 3D Vision, Generative Models
 
