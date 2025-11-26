@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Han-gyeol Lee 👋</h1>
+<h1 align="center">Hi there, I'm Han Kyeol Lee 👋</h1>
 <h3 align="center">🧬 AI Researcher | 🎓 Master's Student @ Yonsei Univ.</h3>
 
 <br>
@@ -18,13 +18,13 @@
 * **Period:** 2024 ~ Current
 * **Role:** Graduate Research Assistant
 * **Link:** [Multimodal AI Lab](https://mmai.yonsei.ac.kr/)
-* **Focus:** Medical AI, 3D Vision, Generative Models
+* **Focus:** Computer Vision, 3D Vision, Generative Models
 
 ### **AIA Lab (Hongik Univ.)**
 * **Period:** 2023 ~ 2024
 * **Role:** Undergraduate Researcher
 * **Link:** [Artificial Intelligence Association](https://sites.google.com/view/aiahongikuniversity/home?authuser=0)
-* **Focus:** Computer Vision, Deep Learning Applications
+* **Focus:** Medical AI, Computer Vision, Deep Learning Applications
 
 <br>
 
@@ -32,15 +32,11 @@
 
 ### 2025
 - **[ICCV 2025 Workshop] REVIVE3D: REtrieval-based Volumetric Infusion via Visual Editing**
-  - *Han-gyeol Lee*, et al.
 - **[Endocrinology and Metabolism] Deep Learning Technology for Classification of Thyroid Nodules Using Multi-View Ultrasound Images: Potential Benefits and Challenges in Clinical Application**
-  - Journal Paper
 
 ### 2024
 - **[IEIE] Knowledge-based Visual Question Answering via Multi-layer Co-Attention and Question-aware prompt** (다층 Co-Attention과 Question-aware prompt를 통한 Knowlege-based Visual Question Answering)
-  - 대한전자공학회
 - **[KOSMI] Prediction of Complete-Partial Repair in Rotator Cuff Repair Using Cross View Transformer** (회전근개 봉합술에서 Cross View Transformer를 활용한 완전-부분 봉합 예측)
-  - 대한의료정보학회
 - **[CDE] Development of an AI Model for Laryngeal Cancer Diagnosis Based on Diverse Phonemes**
 - **[CDE] Risk Assessment of Third Molar to Inferior Alveolar Nerve Damage Using Panoramic Dental Images and Convolutional Neural Networks**
 
@@ -72,10 +68,3 @@
 * 📧 **Email:** `guts4@yonsei.ac.kr` (이메일을 입력해주세요)
 * 🔗 **LinkedIn:** (Soon)
 
-<br>
-<hr>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=minimal&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=minimal&bg_color=00000000" height="150" alt="languages graph" />
-</div>
