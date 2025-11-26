@@ -65,6 +65,6 @@
 <br>
 
 ## 📫 Contact
-* 📧 **Email:** `guts4@yonsei.ac.kr` (이메일을 입력해주세요)
+* 📧 **Email:** `guts4@yonsei.ac.kr`
 * 🔗 **LinkedIn:** (Soon)
 
