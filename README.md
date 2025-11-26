@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Han Kyeol Lee 👋</h1>
+<h1 align="center">Hi there, I'm Hankyeol Lee 👋</h1>
 <h3 align="center">🧬 AI Researcher | 🎓 Master's Student @ Yonsei Univ.</h3>
 
 <br>
