@@ -33,6 +33,7 @@
 ## 📝 Publications
 
 ### 2025
+- **[IEEE Access] Multi-View Cross Attention for Guiding Surgical Planning in Rotator Cuff Repairs With Limited MRI Data**
 - **[ICCV 2025 Workshop] REVIVE3D: REtrieval-based Volumetric Infusion via Visual Editing**
 - **[Endocrinology and Metabolism] Deep Learning Technology for Classification of Thyroid Nodules Using Multi-View Ultrasound Images: Potential Benefits and Challenges in Clinical Application**
 
