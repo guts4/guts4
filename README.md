@@ -32,6 +32,9 @@
 
 ## 📝 Publications
 
+### 2026
+- **[CVPR 2026 Main Conference] REVIVE 3D: Refinement via Encoded Voluminous Inflated prior for Volume  Enhancement**
+
 ### 2025
 - **[IEEE Access] Multi-View Cross Attention for Guiding Surgical Planning in Rotator Cuff Repairs With Limited MRI Data**
 - **[ICCV 2025 Workshop] REVIVE3D: REtrieval-based Volumetric Infusion via Visual Editing**
